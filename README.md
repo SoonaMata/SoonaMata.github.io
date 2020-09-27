@@ -3,10 +3,9 @@
 # README I'm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 ## Hello
-Just using this as a server for some homework. For my CNIT133 class you can view my past HW on https://soonamata.github.io/CNIT133M/index.html. See ["CNIT 133"](https://soonamata.github.io/CNIT133HW/index.html) for -you guessed it- my other class's HW.
+Under Construction
 
-## The following are some readme articles I copied from @matiassingers for my own reference. He accepts PR for your readme's if interested
-
+## The following are some readme articles I copied from @matiassingers for my own reference. 
 ## Articles
 - ["How to Make an Awesome README"](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) - *Sayan Mondal*
 
